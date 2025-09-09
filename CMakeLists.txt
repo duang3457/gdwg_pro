@@ -66,7 +66,7 @@ link_libraries(catch2_main)
 add_library(gdwg_graph src/main.h)
 link_libraries(gdwg_graph)
 
-add_executable(gdwg_graph_test_exe src/main.test.cpp)
+add_executable(main_test src/main.test.cpp)
 add_executable(main src/main.cpp)
-add_test(gdwg_graph_test gdwg_graph_test_exe)
+add_test(gdwg_graph_test main_test)
 
