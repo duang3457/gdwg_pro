@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgdwg_graph.a 
+/usr/bin/ranlib libgdwg_graph.a
