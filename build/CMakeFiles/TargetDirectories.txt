@@ -1,7 +1,0 @@
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/catch2_main.dir
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/gdwg_graph.dir
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/gdwg_graph_test_exe.dir
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/main.dir
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/test.dir
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/edit_cache.dir
-/home/yang/gdwg/Custom_gdwg_private/build/CMakeFiles/rebuild_cache.dir
